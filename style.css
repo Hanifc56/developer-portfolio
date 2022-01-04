@@ -72,16 +72,20 @@ h3{
      border-left: 7px solid;
      border-image: linear-gradient(180deg, lightsalmon, tomato);
      border-image-slice: 1;
+     padding-left: 20px;
+     padding-right: 10px;
     
     }
 #baby-web-experiance{
      border-left: 7px solid;
      border-image: linear-gradient(180deg, blue, cyan);
      border-image-slice: 1;
+     padding-left: 20px;
+     padding-right: 10px;
      } 
 footer p{
     text-align:center;
     } 
 #dream{
         color: orange;
-    }                    
+    }                      
